@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//atg-kong.github.io/medplus-main/static/css/main.c282a9d6.css",
-    "main.js": "/https//atg-kong.github.io/medplus-main/static/js/main.0f69000c.js",
+    "main.js": "/https//atg-kong.github.io/medplus-main/static/js/main.03632886.js",
     "static/media/doctor-picture.png": "/https//atg-kong.github.io/medplus-main/static/media/doctor-picture.45d29dfb394a4ddbf649.png",
     "static/media/doctor-group.png": "/https//atg-kong.github.io/medplus-main/static/media/doctor-group.01394386d8270bd40bc1.png",
     "static/media/doctor-book-appointment.png": "/https//atg-kong.github.io/medplus-main/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
@@ -11,10 +11,10 @@
     "static/media/profile-1.png": "/https//atg-kong.github.io/medplus-main/static/media/profile-1.285f72a9e8c78353056d.png",
     "index.html": "/https//atg-kong.github.io/medplus-main/index.html",
     "main.c282a9d6.css.map": "/https//atg-kong.github.io/medplus-main/static/css/main.c282a9d6.css.map",
-    "main.0f69000c.js.map": "/https//atg-kong.github.io/medplus-main/static/js/main.0f69000c.js.map"
+    "main.03632886.js.map": "/https//atg-kong.github.io/medplus-main/static/js/main.03632886.js.map"
   },
   "entrypoints": [
     "static/css/main.c282a9d6.css",
-    "static/js/main.0f69000c.js"
+    "static/js/main.03632886.js"
   ]
 }
