@@ -9,14 +9,15 @@ import Appointment from "./Pages/Appointment";
 function App() {
   return (
     <div className="App">
-      <Router basename="/Health-Plus">
+    <BrowserRouter>
+    <Hoome/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/legal" element={<Legal />} />
           <Route path="/appointment" element={<Appointment />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-      </Router>
+      </BroweserRouter>
     </div>
   );
 }
